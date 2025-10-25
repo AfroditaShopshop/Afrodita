@@ -1,0 +1,48 @@
+/* 🌸 Estilos mágicos Afrodita */
+
+body {
+  font-family: "Poppins", "Segoe UI", sans-serif;
+  background: linear-gradient(180deg, #fff6f8 0%, #ffeef5 100%);
+  color: #5c3d4a;
+  text-align: center;
+  margin: 0;
+  padding: 60px 20px;
+}
+
+.card {
+  background: #ffffffc9;
+  display: inline-block;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  border: 1px solid #ffd6e6;
+  backdrop-filter: blur(6px);
+}
+
+h1 {
+  color: #d94d83;
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+p {
+  color: #6d4a59;
+  font-size: 1.1em;
+  margin-top: 0;
+}
+
+a {
+  color: #d94d83;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  margin-top: 40px;
+  color: #9b7383;
+  font-size: 0.9em;
+}
